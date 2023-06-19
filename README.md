@@ -1,11 +1,11 @@
 # RadarAssignment
 A command line radar simulation using fake data.
 
-##Requirements:
+## Requirements:
 - Python3
 - A command line interface
 
-Download and unzip data using:
+Download and unzip the data or clone the repository:
 ```
 git clone https://github.com/JacobYoung115/RadarAssignment.git
 ```
